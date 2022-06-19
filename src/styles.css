@@ -24,6 +24,7 @@ font-family: 'Pacifico', cursive;
 }
 .inputFields label{
   display: block;
+  margin:10px auto;
 }
 .inputFields input{
   width:70%;
