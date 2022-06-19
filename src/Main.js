@@ -138,7 +138,7 @@ export default function Main() {
   return (
     <div className="mainContainer">
       <div className="inputFields">
-        <label htmlFor="date">Enter Date :</label>
+        <label htmlFor="date">Enter your Birthday Date :</label>
         <input type="date" id="date" />
       </div>
       <button className="submitButton" onClick={clickHandler}>
