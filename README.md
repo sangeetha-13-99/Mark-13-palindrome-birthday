@@ -6,5 +6,5 @@
 </div>
 This App is developed in codesandbox and technologies used are react,html and pure css
 <p>
- Do checkout this app , here is the live link provided : <a href="https://csb-xcpfrm.netlify.app/">palindrome-birthday</a>
+ Do checkout this app , here is the live link provided : <a href="https://csb-99d8n1.netlify.app/">palindrome-birthday</a>
 </p>
